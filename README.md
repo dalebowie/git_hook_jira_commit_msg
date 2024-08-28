@@ -1,0 +1,1 @@
+# git_hook_jira_commit_msg
