@@ -1,0 +1,6 @@
+-   id: jira-commit-msg
+    name: Jira commit message
+    description: Ensures a Jira work item number is within the first line of every commit message.
+    entry: ./hooks/commit-msg
+    language: script
+    stages: [commit-msg]
